@@ -1,6 +1,6 @@
 "use strict";
 
-const token = process.env.TOKEN
+const token = "EAAGFgZBjJXjMBAKms2tCW0ZA7NWSP6FX6PngJdD90iZCyU5c6n4l6oHZCVUmss57b8lGRO5zQJ5jVy1JZCCGxQbLviXU6pg1GKrJu8PKIW5QBtCZAsUT1aHSM6hsUF6bP42q0eASty1ZBRzRdAUTx9KSUnbRqW3ZCIJpCKtUum7sZBjZAH18o6bG7Q1DgfXrc02xEOWUmB2TQQHwZDZD";
 
 const request = require("request")
 const express = require("express")
@@ -123,7 +123,7 @@ app.post("/webhook", async(req, res) =>{
           let from = req.body.entry[0].changes[0].value.messages[0].from; // extract the phone number from the webhook payload
           let msg_body = req.body.entry[0].changes[0].value.messages[0].text.body; // extract the message text from the webhook payload
 
-          let textoResposta = await executeQueries(process.env.ACCOUNT_ID_DIALOG_FLOW, from, [msg_body], "pt-br");
+          let textoResposta = await executeQueries("wppbot-okgi", from, [msg_body], "pt-br");
           
           if(textoResposta !== null){
 
@@ -155,7 +155,7 @@ app.get("/webhook", (req, res) => {
      * UPDATE YOUR VERIFY TOKEN
      *This will be the Verify Token value when you set up webhook
     **/
-    const verify_token = process.env.VERIFY_TOKEN;
+    const verify_token = "hello";
   
     // Parse params from the webhook verification request
     let mode = req.query["hub.mode"];
