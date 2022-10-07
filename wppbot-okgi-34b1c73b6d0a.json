@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "wppbot-okgi",
+  "private_key_id": "34b1c73b6d0aa5efaa9cdb86ca685648c5997f62",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDUUbyWDtu14loo\nsic3bDA1jFiTYEEA0e4AnXEX5ltAEXYyJ3w17UfBigeuKhwZx1s/Ng/g6BdYQSAX\nBTKd+syfOb6lk4fgCJxf3eQOkP25xY835qV9GSY+4dM49Qpo4uwMx516hag7edRV\nZ2dv+zSf0dDiwIbilq3kSzhrgZV8AZh9LaL+DhRq9TsSJdFaBM2b5i726DfKIDyp\nW0zlVzSv6wIERf4uW5fnbNRwM6GaG+5tS69/4ln5ZipSxR+y+1Gll/KGIE6uoj9O\n6v1FyXNi/w0ATPZwdgbOqPWecxdny1RdC3FjMiE30vykvMu2OqiI+8/Xigfj9sjz\nd0MidAqVAgMBAAECggEALrnaTg/xDINHIkOq28ikh3RenfiF9b89qMb9d6wLkvsE\nzx7feCLDMvXEoPDFhGraSvwD3JRXZuXWQRq0vA3Q8I3NxjTEp2pdt79mjEoefL7c\nuQm6i+B4CUi7qoJLCzA9kMZxguBdWNGECFOccQmQ2EdduDl0tfNBS8e+H/LByitN\nFDHsEAnoSa/Tx2dXRCXjGSVdCimQPXHYnjpPK1Z+OZ8Oi4Vhv30YAOU0T7+tXxEv\nMIouqhJsjNBS4GMLMfB52UygYWfUFgS3WWNqLDXloyqx9Bdai6PUvxbJAB9YFISG\n7e6Y40O0ypHRfLvJtIBg/rjpRuf0iEehHenolC+nNQKBgQDvNtlRrKCaHWB7i42/\nPvHQ8QtT5eY9SgbAPRWv4pcXPSAXz0t028srDIsLJX6kI565LzIgjL1YkxsiSZnd\nAAxTYvIKGBJ4KtC1AGyKqBvSmVNPBiofT1BIk+dBcs8zZX8E9jAwpZBDpTuFBS6C\nPHp2V7ZPzm9k4jK0rvP9+O0bewKBgQDjN8HPLhJB9LCbQnOsKYBxfllRLfbOlpGc\n8EaVHlbMNQ4cexcXKRYoji7Zw53FjoMPjDVePaezgsh9ZnGSzWvq3Ty2dvXnKqYe\nXtho3ELwYAU2/xm5PVOr936gio7anzpN5xYzsodCFS5fNT/l0z3smFygrhSzXiGO\n8Sk39HhNLwKBgFY4yN/9fu3NxOcDCBZ006hiGZkl9nUE56YG3nhFDfycVaL/Xs1C\nI9ribIOaAimbhSxubHz6/YydiVw0dzcHO2oa8e7delrB4/Q5sOXRbiXcigCj0i7y\n4ZcnaGVYwoJeBQh+zCPcqUEYn3l0wqzCq8lYGChv2grc1TX3EY7rWFtdAoGBAKEk\ntwgHRZ2POv0xuLWdzWEwWYnwTjyfnm+uHHC/TpGPAw4B4hNj6Toj9GguiqNEegC5\n0FOg6GGwXB5LXDrgAyxTcS562dTzc1LQsyxTIgo2Hxys+QJd0wx//0c+XSgBiyka\nva02bSTZvsR5EHMfSKiWOgMe0sGO/b/Rmwj7EaKzAoGBALa2De06WiPboszMNbPb\nLEaEHFMeJ3P7c4EB0aj+609a2w79vTQnkGJHrwy63khgsechFu+av8+VCkKRkjaf\nSRVzfp/RnfgwZLb7ZmkVkzVYZC4FBmX+OqEi2pJ3etUou/w/56rX73rrkPvNKyGE\n+WbIHRrHML79AnzQKjIifDeB\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloudapi@wppbot-okgi.iam.gserviceaccount.com",
+  "client_id": "105764667919832506448",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloudapi%40wppbot-okgi.iam.gserviceaccount.com"
+}

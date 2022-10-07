@@ -14,7 +14,7 @@ const http = require('http')
 const port = process.env.PORT || 1337;
 const server = http.createServer(app);
 
-const sessionClient = new dialogflow.SessionsClient({KeyFilename: 'wppbot-okgi-8db6ee84f225.json'})
+const sessionClient = new dialogflow.SessionsClient({KeyFilename: 'wppbot-okgi-34b1c73b6d0a.json'})
 
 app.post('/webhookDialogFlow', function(request, response){
     const agent = new WebhookClient({request, response});
